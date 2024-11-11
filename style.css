@@ -1,0 +1,17 @@
+body{
+    width: 200px;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+
+    background-color:thistle;
+}
+p{
+    font-size: 15px;
+    width: 180px;
+    min-height: 70px;
+    color: black;
+    border: 0.5px solid whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+}
