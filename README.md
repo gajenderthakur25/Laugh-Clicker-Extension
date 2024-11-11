@@ -1,0 +1,1 @@
+# LaughClicker Google Chrome Extension
